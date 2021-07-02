@@ -21,6 +21,7 @@ With this data you can 2. generate, 3. evaluate, and 4. predict the synthetic da
 * [2. Generate synthetic data_complete PID.R](https://github.com/MMJHendriks/Synthetic_ADS/blob/main/SimulationStudy_MHendriks/Code/2.%20Generate%20synthetic%20data_complete%20PID.R)
 * [3. Evaluation synthetic data_complete PID.R](https://github.com/MMJHendriks/Synthetic_ADS/blob/main/SimulationStudy_MHendriks/Code/3.%20Evaluation%20synthetic%20data_complete%20PID.R)
 * [4. Prediction synthetic data_complete PID.R](https://github.com/MMJHendriks/Synthetic_ADS/blob/main/SimulationStudy_MHendriks/Code/4.%20Prediction%20synthetic%20data_complete%20PID.R)
+
 And 5. generate, 6. evaluate, and 7. predict the synthetic data for a boostrapped sample of the PID data:
 * [5. Generate synthetic data_bootstrapped sample.R](https://github.com/MMJHendriks/Synthetic_ADS/blob/main/SimulationStudy_MHendriks/Code/5.%20Generate%20synthetic%20data_bootstrapped%20sample.R)
 * [6. Evaluation synthetic data_bootstrapped sample.R](https://github.com/MMJHendriks/Synthetic_ADS/blob/main/SimulationStudy_MHendriks/Code/6.%20Evaluation%20synthetic%20data_bootstrapped%20sample.R)
@@ -28,9 +29,10 @@ And 5. generate, 6. evaluate, and 7. predict the synthetic data for a boostrappe
 
 To run the code, some additional [functions](https://github.com/MMJHendriks/Synthetic_ADS/blob/main/SimulationStudy_MHendriks/Code/SyntheticData_functions.R) are required, these  functions were originally written by [(Volker,  2021)](https://github.com/amices/Federated_imputation/blob/master/mice_synthesizing/simulations/functions.R).
 
-For a quick overview of the structure of the simulation study, you might look at [Flowchart simulation study] (Figure 1 in the manuscript). 
+For a quick overview of the structure of the simulation study, you might look at the [Flowchart of the simulation study](https://github.com/MMJHendriks/Synthetic_ADS/blob/main/SimulationStudy_MHendriks/Flowchart%20simulation.PNG) (Figure 1 in the manuscript). 
 
 The [Workspaces](https://github.com/MMJHendriks/Synthetic_ADS/tree/main/SimulationStudy_MHendriks/Workspaces) folder is currently empty, because the saved workspaces were too large to upload. This folder might still be used by others to upload their workspaces.
+
 For this reason, I did upload the [Output](https://github.com/MMJHendriks/Synthetic_ADS/tree/main/SimulationStudy_MHendriks/Output) of the simulation study for both scenarios in the form of two html knits [SyntheticData_simulation_scenario1imputed.html](https://github.com/MMJHendriks/Synthetic_ADS/blob/main/SimulationStudy_MHendriks/Output/SyntheticData_simulation_scenario1imputed.html) and [SyntheticData_simulation_scenario2notimputed.html](https://github.com/MMJHendriks/Synthetic_ADS/blob/main/SimulationStudy_MHendriks/Output/SyntheticData_simulation_scenario2notimputed.html). 
 
 **Permission and access**
