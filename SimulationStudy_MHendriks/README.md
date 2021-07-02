@@ -33,7 +33,7 @@ For a quick overview of the structure of the simulation study, you might look at
 
 The [Workspaces](https://github.com/MMJHendriks/Synthetic_ADS/tree/main/SimulationStudy_MHendriks/Workspaces) folder is currently empty, because the saved workspaces were too large to upload. This folder might still be used by others to upload their workspaces.
 
-For this reason, I did upload the [Output](https://github.com/MMJHendriks/Synthetic_ADS/tree/main/SimulationStudy_MHendriks/Output) of the simulation study for both scenarios in the form of two html knits [SyntheticData_simulation_scenario1imputed.html](https://github.com/MMJHendriks/Synthetic_ADS/blob/main/SimulationStudy_MHendriks/Output/SyntheticData_simulation_scenario1imputed.html) and [SyntheticData_simulation_scenario2notimputed.html](https://github.com/MMJHendriks/Synthetic_ADS/blob/main/SimulationStudy_MHendriks/Output/SyntheticData_simulation_scenario2notimputed.html). 
+For this reason, I did upload the [Output](https://github.com/MMJHendriks/Synthetic_ADS/tree/main/SimulationStudy_MHendriks/Output) of the simulation study for both scenarios in the form of two html knits: [SyntheticData_simulation_scenario1imputed.html](https://github.com/MMJHendriks/Synthetic_ADS/blob/main/SimulationStudy_MHendriks/Output/SyntheticData_simulation_scenario1imputed.html) and [SyntheticData_simulation_scenario2notimputed.html](https://github.com/MMJHendriks/Synthetic_ADS/blob/main/SimulationStudy_MHendriks/Output/SyntheticData_simulation_scenario2notimputed.html). 
 
 **Permission and access**
 
