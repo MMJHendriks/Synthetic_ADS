@@ -14,8 +14,8 @@ This research archive contains all files that are used in the current simulation
 The [Code](docs/Code) folder contains all of the R code necessary to reproduce the simulation study. 
 The  simulation  is  performed  for  two  scenarios. In  the  first  scenario, the values of zero (i.e. NAs) in the PID database are imputed once with MICE to create a complete data set. In the second scenario, the values of zero are not imputed, instead we consider the semicontinuous data. See section 2.1 in the manuscript for more explanation. Therefore, we have:
 
-[1. Data import and analysis model_scenario1 impute data.R](docs/1. Data import and analysis model_scenario1 impute data.R)
-[1. Data import and analysis model_scenario2 NA not imputed.R](https://github.com/MMJHendriks/Synthetic_ADS/blob/main/SimulationStudy_MHendriks/Code/1.%20Data%20import%20and%20analysis%20model_scenario2%20NA%20not%20imputed.R)
+* [1. Data import and analysis model_scenario1 impute data.R](https://github.com/MMJHendriks/Synthetic_ADS/blob/main/SimulationStudy_MHendriks/Code/1.%20Data%20import%20and%20analysis%20model_scenario1%20impute%20data.R)
+* [1. Data import and analysis model_scenario2 NA not imputed.R](https://github.com/MMJHendriks/Synthetic_ADS/blob/main/SimulationStudy_MHendriks/Code/1.%20Data%20import%20and%20analysis%20model_scenario2%20NA%20not%20imputed.R)
 
 Currently the [Workspaces](docs/Workspaces) folder is empty, because the saved workspaces were too large to upload. 
 
