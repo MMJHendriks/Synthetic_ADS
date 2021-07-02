@@ -1,4 +1,4 @@
-This repository serves as research archive for the Master's thesis 'MICE to Synthesize: Generating Synthetic Data Sets with MICE for the Analysis of Private Data' by Mirthe Hendriks. The aim of this thesis is to establish a proof-of-concept for generating high-quality partially synthetic data with multiple imputations in MICE for the analysis of privacy-sensitive data.
+This repository serves as research archive for the [Master's thesis](https://github.com/MMJHendriks/Synthetic_ADS/blob/main/SimulationStudy_MHendriks/Thesis_SyntheticDataMICE_MHendriks.pdf) 'MICE to Synthesize: Generating Synthetic Data Sets with MICE for the Analysis of Private Data' by Mirthe Hendriks. The aim of this thesis is to establish a proof-of-concept for generating high-quality partially synthetic data with multiple imputations in MICE for the analysis of privacy-sensitive data.
 
 **Abstract**
 
@@ -7,7 +7,7 @@ We found that synthetic data generated with CART in MICE yields unbiased and con
 
 **Contents**
 
-The thesis manunuscript is named [Thesis_SyntheticDataMICE_MHendriks](docs/Thesis_SyntheticDataMICE_MHendriks) There is a seperate bib file for the [references](https://github.com/MMJHendriks/Synthetic_ADS/blob/main/SimulationStudy_MHendriks/References.bib). 
+The thesis manunuscript is named [Thesis_SyntheticDataMICE_MHendriks](https://github.com/MMJHendriks/Synthetic_ADS/blob/main/SimulationStudy_MHendriks/Thesis_SyntheticDataMICE_MHendriks.pdf) There is a seperate bib file for the [references](https://github.com/MMJHendriks/Synthetic_ADS/blob/main/SimulationStudy_MHendriks/References.bib). 
 
 This research archive contains all files that are used in the current simulation study to generate synthetic data with the R-package MICE (Van Buuren and Groothuis-Oudshoorn,  2011, version  3.13) in R (R Core Team, 2021, version 4.0.4). First, in the folder [Data](https://github.com/MMJHendriks/Synthetic_ADS/tree/main/SimulationStudy_MHendriks/Data) you can find the data set used in this simulation study, the [Pima Indians Diabetes](https://github.com/MMJHendriks/Synthetic_ADS/blob/main/SimulationStudy_MHendriks/Data/diabetes.csv) (PID) database originally from the National Institute of Diabetes and Digestive and Kidney Diseases (2016). This data set is also publicly available at https://www.kaggle.com/uciml/pima-indians-diabetes-database. Additionally, you can find the [Ethical and legal considerations of the data](https://github.com/MMJHendriks/Synthetic_ADS/blob/main/SimulationStudy_MHendriks/Data/Ethical%20and%20legal%20considerations%20of%20the%20data). 
 
